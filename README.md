@@ -63,7 +63,7 @@ The schema demonstrates relational database concepts including:
 
 The Home page verifies the SQLite connection and displays record counts across the core database tables.
 
-![Database Overview](docs/images/Home.png)
+![Database Overview](doc/images/Home.png)
 
 ### Job Search and Filtering
 
@@ -75,7 +75,7 @@ The Browse Jobs interface allows users to filter job postings using:
 
 Results combine information across the `Job`, `Employer`, `Company`, and `Industry` tables.
 
-![Browse Jobs](docs/images/Browse-job.png)
+![Browse Jobs](doc/images/Browse-job.png)
 
 ### Applications Dashboard
 
@@ -83,13 +83,13 @@ The Applications Dashboard displays candidate, job, company, salary, application
 
 Users can filter results by application status.
 
-![Applications Dashboard](docs/images/Applications-dashboard.png)
+![Applications Dashboard](doc/images/Applications-dashboard.png)
 
 ### SQL Query Demo
 
 The application also provides an interactive interface for reviewing and executing analytical SQL queries.
 
-![SQL Query Demo](docs/images/Query-demo.png)
+![SQL Query Demo](doc/images/Query-demo.png)
 
 The project includes ten analytical queries covering topics such as:
 
