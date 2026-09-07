@@ -120,12 +120,12 @@ job-search-portal-database/
 ├── extra_data.sql
 ├── job_portal_queries.sql
 │
-└── docs/
+└── doc/
     └── images/
-        ├── home.png
-        ├── browse-jobs.png
-        ├── applications-dashboard.png
-        └── query-demo.png
+        ├── Home.png
+        ├── Browse-job.png
+        ├── Applications-dashboard.png
+        └── Query-demo.png
 ```
 
 ## Running the Project
